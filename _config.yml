@@ -19,7 +19,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 
+title: "Network Engineering Blog"
 title_separator: "|"
 email: mikel.maeso@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mmaeso
-repository: https://github.com/mmaeso
+repository: mmaeso/mmaeso.github.io
 
 footer:
   links:

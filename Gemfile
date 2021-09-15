@@ -31,3 +31,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "jekyll-remote-theme"
 gem "github-pages", "~> 202", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
+gem 'faraday', '~> 0.17.3'

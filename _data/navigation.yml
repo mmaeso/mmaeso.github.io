@@ -1,0 +1,10 @@
+main:
+  - title: "Enterprise"
+    url: /docs/quick-start-guide/
+  - title: "Service Provider"
+    url: /year-archive/
+  - title: "Data Center"
+    url: /categories/
+  - title: "Automation"
+    url: /tags/
+
