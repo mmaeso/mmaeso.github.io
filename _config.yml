@@ -30,6 +30,15 @@ twitter_username: jekyllrb
 github_username:  jekyll
 repository: https://github.com/mmaeso
 
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmaeso"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/mmaeso/"
+
 # Build settings
 #theme: minima
 plugins:
