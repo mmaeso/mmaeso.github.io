@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mmaeso.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mmaeso
 repository: mmaeso/mmaeso.github.io
 
@@ -42,7 +42,6 @@ footer:
 
 atom_feed:
   hide: true
-
 
 # Build settings
 #theme: minima
@@ -70,5 +69,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+#includes
+
+include: ["_pages"]
 
 remote_theme: mmaeso/minimal-mistakes
+

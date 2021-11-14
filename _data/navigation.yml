@@ -4,7 +4,5 @@ main:
   - title: "Service Provider"
     url: /year-archive/
   - title: "Data Center"
-    url: /categories/
-  - title: "Automation"
-    url: /tags/
+    url: /datacenter/leaf-and-spine/
 
